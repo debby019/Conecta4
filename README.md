@@ -1,5 +1,12 @@
 # Conecta4
+
+## Herramientas necesarias    
+* Python 3    
+* NumPy
+* JSON
+* Pygame
 ## ¿Cómo Jugar?  
+Descarga los archivos dentro de una carpeta.
 Para Jugar necesitas ejecutar el archivo play.py, aparecera una ventana con una interfaz grafica donde podras jugar con el agente.
 ## Entrenamiento  
 Las variables del entrenamiento pueden cambiarse en el archivo train.py, en la parte inferior del codigo
